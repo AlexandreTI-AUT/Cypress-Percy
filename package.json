@@ -1,0 +1,20 @@
+{
+  "name": "curso-cypress-percy",
+  "version": "1.0.0",
+  "description": "Repositório do curso básico de testes de regressão visual com Cypress e Percy da [Escola Talking About Testing](https://talkingabouttesting.coursify.me).",
+  "main": "index.js",
+  "scripts": {
+    "test": "percy exec -- cypress run"
+  },
+
+  "keywords": [
+    "cypress",
+    "percy"
+  ],
+  "author": "Alexandre Silva <alexandre.dasilva@dextra-sw.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@percy/cypress": "^2.3.4",
+    "cypress": "^6.4.0"
+  }
+}
