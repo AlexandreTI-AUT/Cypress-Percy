@@ -10,7 +10,7 @@ Para instalar as dependências do projeto e executar os testes automatizados, é
 
 ## Instalação
 
-Após clonar o projeto, acesse o diretório do mesmo e execute `npm install` para instalar as depedências de desenvolvimento.
+Após clonar o projeto, acesse o diretório do mesmo e execute `npm install` para instalar as dependências de desenvolvimento.
 
 ## Exportando o token do projeto criado no Percy.io
 
